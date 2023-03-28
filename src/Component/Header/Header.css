@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  background: #1c2b35;
+  padding: 0 112px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 20px;
+  font-size: 18px;
+  transition: 0.4s;
+}
+.navbar a:hover {
+  color: chocolate;
+}
